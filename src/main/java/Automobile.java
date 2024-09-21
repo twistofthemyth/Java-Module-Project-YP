@@ -11,7 +11,7 @@ public class Automobile {
         return this.name;
     }
 
-    public double getSpeed() {
+    public int getSpeed() {
         return this.speed;
     }
 
